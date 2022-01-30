@@ -1,5 +1,3 @@
-# Created by packet for https://www.parceu.com
-
 # Specify how to re-enable printspoolers and/or Remoteprint and/or Point-and-Print
 # Must be run on a DC
 
